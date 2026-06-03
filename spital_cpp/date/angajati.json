@@ -1,0 +1,25 @@
+{
+  "angajati": [
+    {
+      "tip": "Medic",
+      "id": 1,
+      "numeFamilie": "Postovanu Andrei",
+      "prenume": "Andrei",
+      "cnp": "0000000000000",
+      "dataNasterii": "1980-01-01",
+      "telefon": "0700000000",
+      "email": "Postovanu Andrei@spital.ro",
+      "adresa": "Str. Spitalului",
+      "dataAngajarii": "2020-01-01",
+      "salariu": 8000,
+      "iban": "RO00",
+      "functie": "Medic",
+      "tipContract": "Norma intreaga",
+      "sectie": "2",
+      "specializare": "Chirurg",
+      "numarParafa": "10",
+      "tarifConsultatie": 200,
+      "parola": "2005"
+    }
+  ]
+}
